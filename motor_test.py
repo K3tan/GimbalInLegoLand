@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # so that script can be run from Brickman
 
+# Testing rotation of motors
+
 from ev3dev.ev3 import *
 from time import sleep
 
