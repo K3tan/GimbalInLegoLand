@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Absolutely first file
+
 from ev3dev.ev3 import *
 import os
 os.system('setfont Lat15-TerminusBold14')
